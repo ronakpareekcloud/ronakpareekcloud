@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ronak Pareek</h1>
 
 <h3 align="center">
-Cloud Engineer | AWS | Linux | DevOps
+Cloud Engineer | AWS | Linux | DevOps Enthusiast
 </h3>
 
 <p align="center">
@@ -12,30 +12,23 @@ Cloud Engineer | AWS | Linux | DevOps
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-🎓 Bachelor's Degree in Computer Applications (BCA)
-
-🎓 Master's Degree in Computer Applications (MCA)
-
-☁️ Trained in Cloud Computing & DevOps
-
-🐧 Hands-on Experience with Linux Administration
-
-☁️ Hands-on Experience with AWS Cloud
-
-🚀 Passionate about Cloud Infrastructure & Automation
-
-💼 Open to Cloud Engineer | AWS Cloud Engineer | DevOps Engineer Roles
+- 🎓 Bachelor's Degree in Computer Applications (BCA)
+- 🎓 Master's Degree in Computer Applications (MCA)
+- ☁️ Trained in Cloud Computing & DevOps
+- 🐧 Hands-on Experience with Linux Administration
+- 🚀 Building Hands-on AWS Projects
+- 💼 Open to Cloud Engineer | AWS Cloud Engineer | DevOps Engineer Roles
 
 ---
 
 # 🌐 Connect With Me
 
-<p>
+<p align="left">
 
-<a href="mailto:ronakpareek@zohomail.in">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:ronakpareekcloud@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/ronakpareekcloud">
@@ -46,27 +39,28 @@ Cloud Engineer | AWS | Linux | DevOps
 
 ---
 
-# 💻 Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,linux,git,github,bash,docker,terraform,jenkins,html,css,vscode"/>
+<img src="https://skillicons.dev/icons?i=aws,linux,git,github,bash,html,css,vscode,docker"/>
 
 </p>
 
 ---
 
-# ☁️ Cloud Skills
+# ☁️ AWS & DevOps Skills
 
 - Amazon EC2
 - IAM
 - VPC
 - Security Groups
 - Apache HTTP Server
-- SSH
 - Linux Administration
+- SSH
 - Git
 - GitHub
+- HTML5
 
 ---
 
@@ -74,31 +68,21 @@ Cloud Engineer | AWS | Linux | DevOps
 
 ## AWS EC2 Static Website Hosting
 
-✔ Amazon EC2
+✔ Launch Amazon EC2 Instance
 
-✔ Amazon Linux 2023
+✔ Configure Security Groups
 
-✔ Apache HTTP Server
+✔ SSH Access
 
-✔ Static Website Deployment
+✔ Install Apache HTTP Server
 
-✔ Git Version Control
+✔ Deploy Static Website
 
-✔ GitHub Repository
+✔ Version Control using Git & GitHub
 
 🔗 Repository
 
 https://github.com/ronakpareekcloud/aws-ec2-web-server-project
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ronakpareekcloud&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</p>
 
 ---
 
@@ -112,39 +96,22 @@ https://github.com/ronakpareekcloud/aws-ec2-web-server-project
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ronakpareekcloud&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
 # 📚 Currently Learning
 
-🐳 Docker
-
-☸ Kubernetes
-
-🏗 Terraform
-
-⚙ Jenkins
-
-🔄 CI/CD
-
-📜 Shell Scripting
-
-📊 Monitoring
-
-☁ AWS Advanced Services
+- Docker
+- Kubernetes
+- Terraform
+- Jenkins
+- CI/CD
+- Shell Scripting
+- Monitoring
+- AWS Advanced Services
 
 ---
 
 # 🎯 Career Objective
 
-I am an aspiring Cloud Engineer passionate about designing, deploying and managing cloud infrastructure using AWS and Linux. I enjoy building real-world cloud projects and continuously learning modern DevOps technologies.
+I am passionate about Cloud Computing and DevOps with hands-on experience in AWS and Linux. My goal is to build scalable cloud solutions, automate infrastructure, and continuously improve my technical skills while contributing to real-world cloud projects.
 
 ---
 
@@ -166,7 +133,7 @@ https://github.com/ronakpareekcloud/aws-ec2-web-server-project
 
 <h3 align="center">
 
-⭐ Thank You for Visiting My GitHub Profile ⭐
+⭐ Thanks for visiting my GitHub Profile ⭐
 
 If you like my work, don't forget to ⭐ my repositories!
 
