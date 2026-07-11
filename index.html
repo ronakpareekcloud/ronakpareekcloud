@@ -1,146 +1,423 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Ronak Pareek | Cloud Engineer Portfolio</title>
-<style>
-*{margin:0;padding:0;box-sizing:border-box;font-family:Arial,sans-serif;scroll-behavior:smooth}
-body{background:#0f172a;color:#fff}
-header{height:100vh;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;
-background:linear-gradient(135deg,#0f172a,#1e3a8a,#2563eb)}
-h1{font-size:3rem}
-h2{color:#60a5fa;margin-bottom:15px}
-p{line-height:1.7}
-.btn{display:inline-block;margin-top:20px;padding:12px 28px;background:#38bdf8;color:#000;
-text-decoration:none;border-radius:30px;font-weight:bold;transition:.3s}
-.btn:hover{transform:scale(1.05)}
-nav{position:fixed;top:0;width:100%;display:flex;justify-content:center;
-background:rgba(0,0,0,.4);backdrop-filter:blur(10px);padding:15px;z-index:1000}
-nav a{color:#fff;text-decoration:none;margin:0 15px}
-section{max-width:1100px;margin:auto;padding:80px 20px}
-.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:20px}
-.card{background:#1e293b;padding:20px;border-radius:12px;transition:.3s}
-.card:hover{transform:translateY(-8px)}
-.skill{display:inline-block;background:#2563eb;padding:8px 14px;margin:6px;border-radius:20px}
-footer{text-align:center;padding:30px;background:#020617}
-.fade{opacity:0;transform:translateY(30px);transition:1s}
-.fade.show{opacity:1;transform:none}
-.toggle{position:fixed;right:20px;bottom:20px;border:none;padding:12px 15px;border-radius:50%;cursor:pointer}
-.light{background:#f8fafc;color:#111}
-.light .card{background:#fff;color:#111}
-.light footer{background:#ddd;color:#111}
-</style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Ronak Pareek — Cloud Engineer, AWS Specialist & DevOps Enthusiast. Portfolio showcasing cloud infrastructure projects and skills." />
+  <meta name="author" content="Ronak Pareek" />
+  <title>Ronak Pareek | Cloud Engineer Portfolio</title>
+
+  <!-- Favicon emoji fallback -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>☁️</text></svg>" />
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-<nav>
-<a href="#about">About</a>
-<a href="#skills">Skills</a>
-<a href="#projects">Projects</a>
-<a href="#education">Education</a>
-<a href="#contact">Contact</a>
-</nav>
 
-<header>
-<h1>Ronak Pareek</h1>
-<h2 id="typing"></h2>
-<p>Aspiring Cloud Engineer | AWS | Linux | DevOps</p>
-<a href="#projects" class="btn">View Projects</a>
-</header>
+  <!-- ===================== NAVBAR ===================== -->
+  <nav id="navbar" aria-label="Main navigation">
+    <a href="#hero" class="nav-logo">R<span>.</span>Pareek</a>
+    <ul class="nav-links" id="nav-links" role="list">
+      <li><a href="#hero">Home</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#skills">Skills</a></li>
+      <li><a href="#projects">Projects</a></li>
+      <li><a href="#education">Education</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+    <button class="hamburger" id="hamburger" aria-label="Toggle menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </nav>
 
-<section id="about" class="fade">
-<h2>About Me</h2>
-<p>I am an MCA student passionate about AWS Cloud, Linux and Infrastructure. I enjoy building secure cloud architectures and hands-on AWS projects.</p>
-</section>
+  <!-- ===================== HERO ===================== -->
+  <header id="hero">
+    <div class="hero-particles" id="particles" aria-hidden="true"></div>
+    <div class="hero-content">
+      <div class="hero-tag">👋 Available for Opportunities</div>
+      <h1 class="hero-name">
+        Hi, I'm <span class="highlight">Ronak Pareek</span>
+      </h1>
+      <div class="hero-typing" aria-live="polite">
+        <span id="typing-text"></span><span class="cursor" aria-hidden="true"></span>
+      </div>
+      <p class="hero-desc">
+        MCA student passionate about building secure, scalable cloud infrastructure on AWS.
+        I turn complex architecture into clean, working systems.
+      </p>
+      <div class="hero-btns">
+        <a href="#projects" class="btn-primary">View My Projects ↓</a>
+        <a href="#contact" class="btn-secondary">Get In Touch</a>
+      </div>
+    </div>
+  </header>
 
-<section id="skills" class="fade">
-<h2>Skills</h2>
-<div>
-<span class="skill">AWS</span>
-<span class="skill">Linux</span>
-<span class="skill">Git</span>
-<span class="skill">GitHub</span>
-<span class="skill">Docker</span>
-<span class="skill">Networking</span>
-<span class="skill">HTML</span>
-<span class="skill">CSS</span>
-<span class="skill">JavaScript</span>
-</div>
-</section>
+  <!-- ===================== ABOUT ===================== -->
+  <section id="about" aria-labelledby="about-heading">
+    <div class="reveal">
+      <p class="section-label">Who I Am</p>
+      <h2 class="section-title" id="about-heading">About <span>Me</span></h2>
+      <div class="section-line"></div>
+    </div>
 
-<section id="projects" class="fade">
-<h2>Projects</h2>
-<div class="cards">
-<div class="card">
-<h3>Enterprise Secure AWS Infrastructure</h3>
-<p>Multi-tier VPC with EC2, ALB, IAM, NAT Gateway, Security Groups and Private/Public Subnets.</p>
-</div>
-<div class="card">
-<h3>Static Website on AWS</h3>
-<p>Hosted responsive website using EC2, Apache and GitHub.</p>
-</div>
-<div class="card">
-<h3>Linux Server Administration</h3>
-<p>User management, permissions, services, storage and networking.</p>
-</div>
-</div>
-</section>
+    <div class="about-grid">
+      <!-- Avatar side -->
+      <div class="about-img-wrapper reveal">
+        <div class="about-img-box">
+          ☁️
+          <div class="about-badge">🎓 MCA Student</div>
+        </div>
+      </div>
 
-<section id="education" class="fade">
-<h2>Education</h2>
-<div class="cards">
-<div class="card"><h3>MCA</h3><p>Vivekananda Global University, Jaipur</p></div>
-<div class="card"><h3>BCA</h3><p>University of Technology</p></div>
-<div class="card"><h3>Cloud Computing & DevOps</h3><p>Professional Training</p></div>
-</div>
-</section>
+      <!-- Text side -->
+      <div class="about-text reveal">
+        <h3>Cloud Engineer & Infrastructure Builder</h3>
+        <p>
+          I'm an MCA student at Vivekananda Global University, Jaipur, specialising in
+          AWS Cloud, Linux systems, and DevOps practices. I enjoy designing infrastructure
+          that is secure, scalable, and cost-efficient from the ground up.
+        </p>
+        <p>
+          My focus is on the AWS ecosystem — from architecting multi-tier VPCs and
+          configuring IAM policies to deploying containerised applications and automating
+          CI/CD pipelines. Every project I build follows best practices from the
+          AWS Well-Architected Framework.
+        </p>
+        <p>
+          Outside of cloud work, I actively sharpen my Linux sysadmin skills, explore
+          networking concepts, and contribute to open-source projects on GitHub.
+        </p>
 
-<section id="contact" class="fade">
-<h2>Contact</h2>
+        <!-- Stats -->
+        <div class="about-stats">
+          <div class="stat-card reveal">
+            <span class="stat-number">4+</span>
+            <span class="stat-label">Projects Built</span>
+          </div>
+          <div class="stat-card reveal">
+            <span class="stat-number">10+</span>
+            <span class="stat-label">AWS Services</span>
+          </div>
+          <div class="stat-card reveal">
+            <span class="stat-number">2+</span>
+            <span class="stat-label">Years Learning</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
 
-<p>
-📧 Email:
-<a href="mailto:ronakpareekcloud@gmail.com" target="_blank">
-ronakpareekcloud@gmail.com
-</a>
-</p>
+  <!-- ===================== SKILLS ===================== -->
+  <section id="skills" aria-labelledby="skills-heading">
+    <div class="reveal">
+      <p class="section-label">What I Work With</p>
+      <h2 class="section-title" id="skills-heading">Technical <span>Skills</span></h2>
+      <div class="section-line"></div>
+    </div>
 
-<p>
-💻 GitHub:
-<a href="https://github.com/ronakpareekcloud" target="_blank">
-github.com/ronakpareekcloud
-</a>
-</p>
+    <div class="skills-grid">
 
-<p>
-💼 LinkedIn:
-<a href="https://www.linkedin.com/in/ronakpareek" target="_blank">
-linkedin.com/in/ronakpareek
-</a>
-</p>
-</section>
+      <!-- AWS Cloud -->
+      <div class="skill-category reveal">
+        <div class="skill-cat-icon">☁️</div>
+        <div class="skill-cat-title">AWS Cloud</div>
+        <div class="skill-tags">
+          <span class="skill-tag">EC2</span>
+          <span class="skill-tag">VPC</span>
+          <span class="skill-tag">S3</span>
+          <span class="skill-tag">IAM</span>
+          <span class="skill-tag">ALB</span>
+          <span class="skill-tag">Route 53</span>
+          <span class="skill-tag">CloudWatch</span>
+          <span class="skill-tag">NAT Gateway</span>
+          <span class="skill-tag">Security Groups</span>
+        </div>
+        <div style="margin-top:20px">
+          <div class="skill-bar-item">
+            <div class="skill-bar-header"><span>AWS Core Services</span><span>85%</span></div>
+            <div class="skill-bar-track"><div class="skill-bar-fill" data-width="85%"></div></div>
+          </div>
+          <div class="skill-bar-item">
+            <div class="skill-bar-header"><span>VPC & Networking</span><span>80%</span></div>
+            <div class="skill-bar-track"><div class="skill-bar-fill" data-width="80%"></div></div>
+          </div>
+          <div class="skill-bar-item">
+            <div class="skill-bar-header"><span>IAM & Security</span><span>78%</span></div>
+            <div class="skill-bar-track"><div class="skill-bar-fill" data-width="78%"></div></div>
+          </div>
+        </div>
+      </div>
 
-<footer>
-<p>© 2026 Ronak Pareek | Built with HTML, CSS & JavaScript</p>
-</footer>
+      <!-- Linux & Systems -->
+      <div class="skill-category reveal">
+        <div class="skill-cat-icon">🐧</div>
+        <div class="skill-cat-title">Linux & Systems</div>
+        <div class="skill-tags">
+          <span class="skill-tag">Ubuntu</span>
+          <span class="skill-tag">CentOS</span>
+          <span class="skill-tag">Bash</span>
+          <span class="skill-tag">systemd</span>
+          <span class="skill-tag">LVM</span>
+          <span class="skill-tag">cron</span>
+          <span class="skill-tag">SSH</span>
+          <span class="skill-tag">UFW</span>
+          <span class="skill-tag">rsync</span>
+        </div>
+        <div style="margin-top:20px">
+          <div class="skill-bar-item">
+            <div class="skill-bar-header"><span>Linux Administration</span><span>88%</span></div>
+            <div class="skill-bar-track"><div class="skill-bar-fill" data-width="88%"></div></div>
+          </div>
+          <div class="skill-bar-item">
+            <div class="skill-bar-header"><span>Shell Scripting</span><span>75%</span></div>
+            <div class="skill-bar-track"><div class="skill-bar-fill" data-width="75%"></div></div>
+          </div>
+          <div class="skill-bar-item">
+            <div class="skill-bar-header"><span>Networking</span><span>72%</span></div>
+            <div class="skill-bar-track"><div class="skill-bar-fill" data-width="72%"></div></div>
+          </div>
+        </div>
+      </div>
 
-<button class="toggle" onclick="theme()">🌙</button>
+      <!-- DevOps & Tools -->
+      <div class="skill-category reveal">
+        <div class="skill-cat-icon">⚙️</div>
+        <div class="skill-cat-title">DevOps & Tools</div>
+        <div class="skill-tags">
+          <span class="skill-tag">Git</span>
+          <span class="skill-tag">GitHub</span>
+          <span class="skill-tag">Docker</span>
+          <span class="skill-tag">GitHub Actions</span>
+          <span class="skill-tag">CI/CD</span>
+          <span class="skill-tag">Apache</span>
+          <span class="skill-tag">Nginx</span>
+          <span class="skill-tag">VS Code</span>
+        </div>
+        <div style="margin-top:20px">
+          <div class="skill-bar-item">
+            <div class="skill-bar-header"><span>Git & GitHub</span><span>90%</span></div>
+            <div class="skill-bar-track"><div class="skill-bar-fill" data-width="90%"></div></div>
+          </div>
+          <div class="skill-bar-item">
+            <div class="skill-bar-header"><span>Docker</span><span>70%</span></div>
+            <div class="skill-bar-track"><div class="skill-bar-fill" data-width="70%"></div></div>
+          </div>
+          <div class="skill-bar-item">
+            <div class="skill-bar-header"><span>CI/CD Pipelines</span><span>68%</span></div>
+            <div class="skill-bar-track"><div class="skill-bar-fill" data-width="68%"></div></div>
+          </div>
+        </div>
+      </div>
 
-<script>
-const text="Cloud Engineer | AWS | Linux | DevOps";
-let i=0;
-(function type(){
- if(i<text.length){
-   document.getElementById("typing").innerHTML+=text.charAt(i++);
-   setTimeout(type,80);
- }
-})();
-const obs=new IntersectionObserver(entries=>{
-entries.forEach(e=>{if(e.isIntersecting)e.target.classList.add("show")})
-});
-document.querySelectorAll(".fade").forEach(el=>obs.observe(el));
-function theme(){document.body.classList.toggle("light")}
-</script>
+      <!-- Web & Programming -->
+      <div class="skill-category reveal">
+        <div class="skill-cat-icon">💻</div>
+        <div class="skill-cat-title">Web & Programming</div>
+        <div class="skill-tags">
+          <span class="skill-tag">HTML5</span>
+          <span class="skill-tag">CSS3</span>
+          <span class="skill-tag">JavaScript</span>
+          <span class="skill-tag">Python (basics)</span>
+          <span class="skill-tag">YAML</span>
+          <span class="skill-tag">JSON</span>
+          <span class="skill-tag">Markdown</span>
+        </div>
+        <div style="margin-top:20px">
+          <div class="skill-bar-item">
+            <div class="skill-bar-header"><span>HTML / CSS</span><span>82%</span></div>
+            <div class="skill-bar-track"><div class="skill-bar-fill" data-width="82%"></div></div>
+          </div>
+          <div class="skill-bar-item">
+            <div class="skill-bar-header"><span>JavaScript</span><span>65%</span></div>
+            <div class="skill-bar-track"><div class="skill-bar-fill" data-width="65%"></div></div>
+          </div>
+          <div class="skill-bar-item">
+            <div class="skill-bar-header"><span>Python</span><span>55%</span></div>
+            <div class="skill-bar-track"><div class="skill-bar-fill" data-width="55%"></div></div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ===================== PROJECTS ===================== -->
+  <section id="projects" aria-labelledby="projects-heading">
+    <div class="reveal">
+      <p class="section-label">What I've Built</p>
+      <h2 class="section-title" id="projects-heading">My <span>Projects</span></h2>
+      <div class="section-line"></div>
+    </div>
+
+    <!-- Filter Buttons -->
+    <div class="projects-filter reveal" role="group" aria-label="Filter projects">
+      <button class="filter-btn active" data-filter="all">All Projects</button>
+      <button class="filter-btn" data-filter="aws">AWS</button>
+      <button class="filter-btn" data-filter="linux">Linux</button>
+      <button class="filter-btn" data-filter="devops">DevOps</button>
+    </div>
+
+    <!-- Cards rendered by JS -->
+    <div class="projects-grid" id="projects-grid" aria-live="polite"></div>
+  </section>
+
+  <!-- Project Modal -->
+  <div class="modal-overlay" id="modal-overlay" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div class="modal" id="modal"></div>
+  </div>
+
+  <!-- ===================== EDUCATION ===================== -->
+  <section id="education" aria-labelledby="education-heading">
+    <div class="reveal">
+      <p class="section-label">My Background</p>
+      <h2 class="section-title" id="education-heading">Education & <span>Training</span></h2>
+      <div class="section-line"></div>
+    </div>
+
+    <div class="timeline">
+
+      <div class="timeline-item reveal">
+        <div class="timeline-date">2023 — Present</div>
+        <h3 class="timeline-title">Master of Computer Applications (MCA)</h3>
+        <div class="timeline-place">🏛️ Vivekananda Global University, Jaipur</div>
+        <p class="timeline-desc">
+          Specialising in Cloud Computing, Networking, and Software Engineering. 
+          Active participation in cloud labs and infrastructure projects throughout the programme.
+        </p>
+      </div>
+
+      <div class="timeline-item reveal">
+        <div class="timeline-date">2020 — 2023</div>
+        <h3 class="timeline-title">Bachelor of Computer Applications (BCA)</h3>
+        <div class="timeline-place">🏛️ University of Technology</div>
+        <p class="timeline-desc">
+          Foundational studies in programming, data structures, operating systems,
+          networking, and database management systems.
+        </p>
+      </div>
+
+      <div class="timeline-item reveal">
+        <div class="timeline-date">2024</div>
+        <h3 class="timeline-title">Cloud Computing & DevOps — Professional Training</h3>
+        <div class="timeline-place">🎯 Professional Certification Programme</div>
+        <p class="timeline-desc">
+          Intensive hands-on training covering AWS core services, Linux administration,
+          Docker containerisation, CI/CD pipelines, and infrastructure-as-code fundamentals.
+          Built and deployed multiple real-world projects throughout the programme.
+        </p>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ===================== CONTACT ===================== -->
+  <section id="contact" aria-labelledby="contact-heading">
+    <div class="reveal">
+      <p class="section-label">Let's Talk</p>
+      <h2 class="section-title" id="contact-heading">Get In <span>Touch</span></h2>
+      <div class="section-line"></div>
+    </div>
+
+    <div class="contact-wrapper">
+
+      <!-- Left: Info -->
+      <div class="contact-info reveal">
+        <h3>Open to opportunities</h3>
+        <p>
+          Whether you have a cloud project in mind, want to discuss infrastructure,
+          or are looking for a motivated cloud engineer — my inbox is always open.
+          I'll get back to you within 24 hours.
+        </p>
+
+        <div class="contact-links">
+          <a href="mailto:ronakpareekcloud@gmail.com" class="contact-link" target="_blank" rel="noopener">
+            <div class="contact-link-icon icon-email">📧</div>
+            <div class="contact-link-text">
+              <strong>Email</strong>
+              <span>ronakpareekcloud@gmail.com</span>
+            </div>
+          </a>
+
+          <a href="https://github.com/ronakpareekcloud" class="contact-link" target="_blank" rel="noopener">
+            <div class="contact-link-icon icon-github">⬡</div>
+            <div class="contact-link-text">
+              <strong>GitHub</strong>
+              <span>github.com/ronakpareekcloud</span>
+            </div>
+          </a>
+
+          <a href="https://www.linkedin.com/in/ronakpareek" class="contact-link" target="_blank" rel="noopener">
+            <div class="contact-link-icon icon-linkedin">💼</div>
+            <div class="contact-link-text">
+              <strong>LinkedIn</strong>
+              <span>linkedin.com/in/ronakpareek</span>
+            </div>
+          </a>
+        </div>
+      </div>
+
+      <!-- Right: Form -->
+      <div class="reveal">
+        <form class="contact-form" id="contact-form" novalidate>
+          <div class="form-group">
+            <label for="name">Your Name <span style="color:#f87171">*</span></label>
+            <input type="text" id="name" name="name" placeholder="e.g. Rahul Sharma" autocomplete="name" required />
+          </div>
+
+          <div class="form-group">
+            <label for="email">Email Address <span style="color:#f87171">*</span></label>
+            <input type="email" id="email" name="email" placeholder="your@email.com" autocomplete="email" required />
+          </div>
+
+          <div class="form-group">
+            <label for="subject">Subject</label>
+            <input type="text" id="subject" name="subject" placeholder="e.g. Cloud Project Collaboration" />
+          </div>
+
+          <div class="form-group">
+            <label for="message">Message <span style="color:#f87171">*</span></label>
+            <textarea id="message" name="message" placeholder="Tell me about your project or opportunity…" required></textarea>
+          </div>
+
+          <button type="submit" class="form-submit">
+            Send Message ✈
+          </button>
+        </form>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ===================== FOOTER ===================== -->
+  <footer>
+    <div class="footer-left">
+      <p>© 2026 <span>Ronak Pareek</span> — Crafted with HTML, CSS & JavaScript</p>
+      <p style="margin-top:4px;font-size:0.8rem;">Building cloud infrastructure, one project at a time ☁️</p>
+    </div>
+    <div class="footer-right">
+      <a href="mailto:ronakpareekcloud@gmail.com" class="footer-icon" title="Email" aria-label="Email">📧</a>
+      <a href="https://github.com/ronakpareekcloud" target="_blank" rel="noopener" class="footer-icon" title="GitHub" aria-label="GitHub">⬡</a>
+      <a href="https://www.linkedin.com/in/ronakpareek" target="_blank" rel="noopener" class="footer-icon" title="LinkedIn" aria-label="LinkedIn">💼</a>
+    </div>
+  </footer>
+
+  <!-- Back to top -->
+  <button id="back-top" aria-label="Back to top">↑</button>
+
+  <!-- Theme toggle -->
+  <button id="theme-toggle" aria-label="Toggle light/dark mode">🌙</button>
+
+  <!-- Toast notification -->
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <!-- Script -->
+  <script src="script.js"></script>
+
 </body>
 </html>
