@@ -134,7 +134,7 @@ function initTyping() {
 
   const lines = [
     'Cloud Engineer',
-    'AWS Specialist',
+    'AWS Learner',
     'Linux Admin',
     'DevOps Enthusiast'
   ];
