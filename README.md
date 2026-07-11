@@ -27,9 +27,9 @@
 
 I'm **Ronak Pareek** — a Cloud Engineer and MCA graduate passionate about designing and deploying secure, scalable infrastructure on AWS. I enjoy turning complex architecture into clean, working systems that follow AWS Well-Architected Framework best practices.
 
-- 🏫 **Cloud Computing & DevOps Training** — Ducat School of AI, Jaipur *(Completed)*
-- 🎓 **MCA** — Vivekananda Global University, Jaipur *(Post-Graduation — Completed)*
-- 🎓 **BCA** — University of Technology, Jaipur *(Graduation — Completed)*
+- 🏫 **Cloud Computing & DevOps Training** — Ducat School of AI, Jaipur
+- 🎓 **MCA** — Vivekananda Global University, Jaipur *(Post-Graduation)*
+- 🎓 **BCA** — University of Technology, Jaipur *(Graduation)*
 - ☁️ Focused on AWS Cloud, VPC Design, IAM, EC2, and cloud networking
 - 🐧 Actively sharpening Linux sysadmin and shell scripting skills
 - ⚙️ Learning DevOps fundamentals — Docker, CI/CD, Git workflows
@@ -99,7 +99,7 @@ I'm **Ronak Pareek** — a Cloud Engineer and MCA graduate passionate about desi
 
 ## 🚀 Featured Projects
 
-### ✅ [AWS EC2 Static Website Hosting](https://github.com/ronakpareekcloud/aws-ec2-web-server-project) — *Completed*
+### ✅ [AWS EC2 Static Website Hosting](https://github.com/ronakpareekcloud/aws-ec2-web-server-project)
 
 > Deployed a fully responsive static website on AWS EC2 using Apache HTTP Server. Covers end-to-end server provisioning, networking, and web deployment.
 
@@ -114,7 +114,7 @@ I'm **Ronak Pareek** — a Cloud Engineer and MCA graduate passionate about desi
 
 ---
 
-### 🔄 Enterprise Secure AWS Infrastructure — *In Progress*
+### 🔄 Enterprise Secure AWS Infrastructure
 
 > Multi-tier VPC architecture with ALB, NAT Gateway, public/private subnets following AWS Well-Architected Framework.
 
@@ -122,7 +122,7 @@ I'm **Ronak Pareek** — a Cloud Engineer and MCA graduate passionate about desi
 
 ---
 
-### 🔄 Linux Server Administration — *In Progress*
+### 🔄 Linux Server Administration
 
 > End-to-end Linux server management covering users, permissions, storage (LVM), services (systemd), and automation (cron).
 
@@ -130,7 +130,7 @@ I'm **Ronak Pareek** — a Cloud Engineer and MCA graduate passionate about desi
 
 ---
 
-### 🔄 CI/CD Pipeline with GitHub Actions — *In Progress*
+### 🔄 CI/CD Pipeline with GitHub Actions
 
 > Automated build and deploy pipeline using GitHub Actions, Docker, and SSH-based deployment to EC2.
 
@@ -168,10 +168,10 @@ I'm **Ronak Pareek** — a Cloud Engineer and MCA graduate passionate about desi
 
 ```
 ronakpareekcloud/
-├── aws-ec2-web-server-project/   ✅ Completed — Static site on EC2
-├── aws-vpc-infrastructure/       🔄 In Progress — Multi-tier VPC
-├── linux-server-admin/           🔄 In Progress — Linux sysadmin tasks
-└── cicd-github-actions/          🔄 In Progress — CI/CD pipeline
+├── aws-ec2-web-server-project/   — Static site on EC2
+├── aws-vpc-infrastructure/       — Multi-tier VPC
+├── linux-server-admin/           — Linux sysadmin tasks
+└── cicd-github-actions/          — CI/CD pipeline
 ```
 
 ---
