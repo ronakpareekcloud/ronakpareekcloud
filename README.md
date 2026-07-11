@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ronak Pareek</h1>
 
-<h3 align="center">Cloud Engineer &nbsp;|&nbsp; AWS Specialist &nbsp;|&nbsp; Linux Admin &nbsp;|&nbsp; DevOps Enthusiast</h3>
+<h3 align="center">Fresher Cloud Engineer &nbsp;|&nbsp; AWS Learner &nbsp;|&nbsp; Linux &nbsp;|&nbsp; DevOps Beginner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Cloud+Engineer+%7C+AWS+Specialist;Building+Scalable+Cloud+Infrastructure;Linux+Administration+%7C+DevOps+Practices;MCA+Graduate+%7C+Ducat+School+of+AI%2C+Jaipur;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Fresher+Cloud+Engineer+%7C+AWS+Learner;Building+Real+Cloud+Projects;Linux+%7C+DevOps+Basics;MCA+Graduate+%7C+Ducat+School+of+AI%2C+Jaipur;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Ronak Pareek** — a Cloud Engineer and MCA graduate passionate about designing and deploying secure, scalable infrastructure on AWS. I enjoy turning complex architecture into clean, working systems that follow AWS Well-Architected Framework best practices.
+I'm **Ronak Pareek** — a Fresher Cloud Engineer and MCA graduate, currently learning AWS, Linux, and DevOps practices. I enjoy building hands-on projects to grow my cloud skills and work towards a career in cloud infrastructure.
 
 - 🏫 **Cloud Computing & DevOps Training** — Ducat School of AI, Jaipur
 - 🎓 **MCA** — Vivekananda Global University, Jaipur *(Post-Graduation)*
@@ -88,7 +88,7 @@ I'm **Ronak Pareek** — a Cloud Engineer and MCA graduate passionate about desi
 
 ### Web & Programming
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
   &nbsp;
   <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
