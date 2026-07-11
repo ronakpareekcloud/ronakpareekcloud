@@ -29,7 +29,7 @@ I'm **Ronak Pareek** — a Cloud Engineer and MCA student passionate about desig
 
 - 🎓 **MCA** — Vivekananda Global University, Jaipur *(Post-Graduation — Currently Pursuing)*
 - 🎓 **BCA** — Vivekananda Global University, Jaipur *(Graduation — Completed)*
-- 🏫 **Cloud Computing & DevOps Training** — Ducat School of AI, Delhi *(Currently Pursuing)*
+- 🏫 **Cloud Computing & DevOps Training** — Ducat School of AI, Jaipur *(Currently Pursuing)*
 - ☁️ Focused on AWS Cloud, VPC Design, IAM, EC2, and cloud networking
 - 🐧 Actively sharpening Linux sysadmin and shell scripting skills
 - ⚙️ Learning DevOps fundamentals — Docker, CI/CD, Git workflows
