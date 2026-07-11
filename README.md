@@ -3,7 +3,7 @@
 <h3 align="center">Cloud Engineer &nbsp;|&nbsp; AWS Specialist &nbsp;|&nbsp; Linux Admin &nbsp;|&nbsp; DevOps Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Cloud+Engineer+%7C+AWS+Specialist;Building+Scalable+Cloud+Infrastructure;Linux+Administration+%7C+DevOps+Practices;MCA+Student+%7C+Ducat+School+of+AI+Trainee;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Cloud+Engineer+%7C+AWS+Specialist;Building+Scalable+Cloud+Infrastructure;Linux+Administration+%7C+DevOps+Practices;MCA+Graduate+%7C+Ducat+School+of+AI%2C+Jaipur;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,11 +25,11 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Ronak Pareek** — a Cloud Engineer and MCA student passionate about designing and deploying secure, scalable infrastructure on AWS. I enjoy turning complex architecture into clean, working systems that follow AWS Well-Architected Framework best practices.
+I'm **Ronak Pareek** — a Cloud Engineer and MCA graduate passionate about designing and deploying secure, scalable infrastructure on AWS. I enjoy turning complex architecture into clean, working systems that follow AWS Well-Architected Framework best practices.
 
-- 🎓 **MCA** — Vivekananda Global University, Jaipur *(Post-Graduation — Currently Pursuing)*
-- 🎓 **BCA** — Vivekananda Global University, Jaipur *(Graduation — Completed)*
-- 🏫 **Cloud Computing & DevOps Training** — Ducat School of AI, Jaipur *(Currently Pursuing)*
+- 🏫 **Cloud Computing & DevOps Training** — Ducat School of AI, Jaipur *(Completed)*
+- 🎓 **MCA** — Vivekananda Global University, Jaipur *(Post-Graduation — Completed)*
+- 🎓 **BCA** — University of Technology, Jaipur *(Graduation — Completed)*
 - ☁️ Focused on AWS Cloud, VPC Design, IAM, EC2, and cloud networking
 - 🐧 Actively sharpening Linux sysadmin and shell scripting skills
 - ⚙️ Learning DevOps fundamentals — Docker, CI/CD, Git workflows
