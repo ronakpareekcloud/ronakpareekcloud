@@ -22,7 +22,7 @@ const projects = [
       "Enabled VPC Flow Logs for network monitoring and troubleshooting"
     ],
     tech: ["AWS VPC", "EC2", "ALB", "NAT Gateway", "IAM", "Security Groups", "CloudWatch", "Route 53"],
-    github: "https://github.com/ronakpareekcloud",
+    github: "https://github.com/ronakpareekcloud/aws-ec2-web-server-project",
     status: "Completed"
   },
   {
@@ -43,7 +43,7 @@ const projects = [
       "Implemented basic SSL using Let's Encrypt for HTTPS"
     ],
     tech: ["EC2", "Apache", "Linux", "GitHub", "Elastic IP", "Security Groups"],
-    github: "https://github.com/ronakpareekcloud",
+    github: "https://github.com/ronakpareekcloud/aws-ec2-web-server-project",
     status: "Completed"
   },
   {
@@ -65,7 +65,7 @@ const projects = [
     ],
     tech: ["Linux", "Bash", "systemd", "LVM", "cron", "SSH", "UFW", "rsync"],
     github: "https://github.com/ronakpareekcloud",
-    status: "Completed"
+    status: "In Progress"
   },
   {
     id: 4,

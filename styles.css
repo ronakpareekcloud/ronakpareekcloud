@@ -185,6 +185,19 @@ nav.scrolled {
   animation: fadeDown 0.8s ease forwards;
 }
 
+.hero-intro {
+  font-size: clamp(1rem, 2vw, 1.2rem);
+  color: var(--text-secondary);
+  margin-bottom: 12px;
+  animation: fadeUp 0.8s ease 0.1s both;
+  letter-spacing: 0.3px;
+}
+
+.hero-intro strong {
+  color: var(--text-primary);
+  font-weight: 700;
+}
+
 .hero-name {
   font-size: clamp(2.8rem, 6vw, 5rem);
   font-weight: 800;
@@ -366,6 +379,15 @@ section {
   font-size: 7rem;
   position: relative;
   overflow: hidden;
+}
+
+.about-photo {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center top;
+  border-radius: 18px;
+  display: block;
 }
 
 .about-img-box::before {

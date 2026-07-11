@@ -1,131 +1,185 @@
 <h1 align="center">Hi 👋, I'm Ronak Pareek</h1>
 
-<h3 align="center">
-Cloud Computing | AWS | Linux | DevOps
-</h3>
+<h3 align="center">Cloud Engineer &nbsp;|&nbsp; AWS Specialist &nbsp;|&nbsp; Linux Admin &nbsp;|&nbsp; DevOps Enthusiast</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Cloud+Engineer+%7C+AWS+Specialist;Building+Scalable+Cloud+Infrastructure;Linux+Administration+%7C+DevOps+Practices;MCA+Student+%7C+Ducat+School+of+AI+Trainee;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Aspiring+Cloud+Engineer;AWS+%7C+Linux+%7C+DevOps;Building+Real+Cloud+Projects;Always+Learning+New+Technologies"/>
-
+<p align="center">
+  <a href="mailto:ronakpareekcloud@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ronakpareekcloud">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ronakpareek">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://ronakpareekcloud.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-- 🎓 BCA Graduate
-- 🎓 MCA (Final Semester)
-- ☁️ Cloud Computing & DevOps Trainee
-- 🐧 Learning Linux Administration
-- ☁️ Working on AWS Projects
-- 🚀 Looking for Cloud / AWS / DevOps Opportunities
+I'm **Ronak Pareek** — a Cloud Engineer and MCA student passionate about designing and deploying secure, scalable infrastructure on AWS. I enjoy turning complex architecture into clean, working systems that follow AWS Well-Architected Framework best practices.
+
+- 🎓 **MCA** — Vivekananda Global University, Jaipur *(Post-Graduation — Currently Pursuing)*
+- 🎓 **BCA** — Vivekananda Global University, Jaipur *(Graduation — Completed)*
+- 🏫 **Cloud Computing & DevOps Training** — Ducat School of AI, Delhi *(Currently Pursuing)*
+- ☁️ Focused on AWS Cloud, VPC Design, IAM, EC2, and cloud networking
+- 🐧 Actively sharpening Linux sysadmin and shell scripting skills
+- ⚙️ Learning DevOps fundamentals — Docker, CI/CD, Git workflows
+- 🚀 Open to Cloud / AWS / DevOps opportunities
 
 ---
 
-## 🌐 Connect with Me
+## ☁️ AWS Cloud Skills
 
 <p align="left">
-
-<a href="mailto:ronakpareekcloud@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://github.com/ronakpareekcloud">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/ALB-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Route_53-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/NAT_Gateway-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security_Groups-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Auto_Scaling-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/EBS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudTrail-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/SNS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elastic_IP-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AMI-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Internet_Gateway-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network_ACL-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Subnets-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 ---
 
-# 💻 Tech Stack
+## 🛠️ Tech Stack
 
+### Linux & Systems
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,bash,ubuntu" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" />
+  <img src="https://img.shields.io/badge/systemd-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSH-4D4D4D?style=for-the-badge&logo=openssh&logoColor=white" />
+  <img src="https://img.shields.io/badge/cron-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/LVM-333333?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/UFW-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=aws,linux,git,github,html,css,vscode,bash"/>
+### DevOps & Tools *(Basic Level)*
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,jenkins,ansible,terraform,vscode" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+</p>
 
+### Web & Programming
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
 
 ---
 
-# 🚀 Current Project
+## 🚀 Featured Projects
 
-## AWS EC2 Static Website Hosting
+### ✅ [AWS EC2 Static Website Hosting](https://github.com/ronakpareekcloud/aws-ec2-web-server-project) — *Completed*
 
-✔ Amazon EC2
+> Deployed a fully responsive static website on AWS EC2 using Apache HTTP Server. Covers end-to-end server provisioning, networking, and web deployment.
 
-✔ Amazon Linux 2023
+**Key Highlights:**
+- Launched EC2 instance (Amazon Linux 2023) inside a custom VPC
+- Configured Apache HTTP Server with virtual hosting
+- Set up Security Groups to allow HTTP/HTTPS traffic only
+- Assigned Elastic IP for consistent public access
+- Deployed site content directly from GitHub
 
-✔ Apache HTTP Server
-
-✔ SSH
-
-✔ GitHub
-
-✔ Static Website Deployment
+**Stack:** `EC2` `Apache` `Linux` `VPC` `Security Groups` `Elastic IP` `GitHub`
 
 ---
 
-# 📈 GitHub Stats
+### 🔄 Enterprise Secure AWS Infrastructure — *In Progress*
+
+> Multi-tier VPC architecture with ALB, NAT Gateway, public/private subnets following AWS Well-Architected Framework.
+
+**Stack:** `VPC` `EC2` `ALB` `NAT Gateway` `IAM` `CloudWatch` `Route 53`
+
+---
+
+### 🔄 Linux Server Administration — *In Progress*
+
+> End-to-end Linux server management covering users, permissions, storage (LVM), services (systemd), and automation (cron).
+
+**Stack:** `Linux` `Bash` `systemd` `LVM` `cron` `SSH` `UFW` `rsync`
+
+---
+
+### 🔄 CI/CD Pipeline with GitHub Actions — *In Progress*
+
+> Automated build and deploy pipeline using GitHub Actions, Docker, and SSH-based deployment to EC2.
+
+**Stack:** `GitHub Actions` `Docker` `Docker Hub` `EC2` `SSH` `YAML` `Bash`
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ronakpareekcloud&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ronakpareekcloud&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ronakpareekcloud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  &nbsp;
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ronakpareekcloud&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-# 📊 Most Used Languages
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronakpareekcloud&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronakpareekcloud&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🏆 Achievements
+## 🎯 Currently Learning
 
-🏅 AWS Cloud Projects
-
-🏅 Linux Administration
-
-🏅 Git & GitHub
-
-🏅 Apache HTTP Server
-
-🏅 Static Website Hosting
+| Area | Tools |
+|------|-------|
+| Container Orchestration | Kubernetes |
+| Infrastructure as Code | Terraform |
+| Monitoring & Observability | Prometheus, Grafana |
+| Automation | Ansible, Jenkins |
+| Advanced AWS | EKS, RDS, Lambda |
 
 ---
 
-# 📂 Featured Repository
+## 📂 Repository Structure
 
-⭐ AWS EC2 Static Website Hosting
-
-https://github.com/ronakpareekcloud/aws-ec2-web-server-project
-
----
-
-# 🎯 Learning Goals
-
-- Docker
-- Kubernetes
-- Terraform
-- Jenkins
-- CI/CD
-- AWS Services
-- Monitoring
-- DevOps Automation
+```
+ronakpareekcloud/
+├── aws-ec2-web-server-project/   ✅ Completed — Static site on EC2
+├── aws-vpc-infrastructure/       🔄 In Progress — Multi-tier VPC
+├── linux-server-admin/           🔄 In Progress — Linux sysadmin tasks
+└── cicd-github-actions/          🔄 In Progress — CI/CD pipeline
+```
 
 ---
 
-<h3 align="center">
+<h3 align="center">Thanks for visiting! ☁️ Let's build something great together.</h3>
 
-Thanks for visiting my profile ❤️
-
-</h3>
+<p align="center">
+  <a href="mailto:ronakpareekcloud@gmail.com">
+    <img src="https://img.shields.io/badge/Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
