@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/ronakpareek">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://ronakpareekcloud.github.io" target="_blank">
+  <a href="https://ronakpareekcloud.github.io/ronakpareekcloud/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
